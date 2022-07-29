@@ -1,2 +1,1 @@
-Yo sup 
-Im new to this platform :Đ 
+I'm trying to be a fullstack coder. 
